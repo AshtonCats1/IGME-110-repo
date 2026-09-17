@@ -1,6 +1,6 @@
-#Andrews Listicle
+# Andrews Listicle
 
-##My favorite games of all time
+## My favorite games of all time
 
 Going in descending order
 
