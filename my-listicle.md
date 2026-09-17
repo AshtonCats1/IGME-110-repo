@@ -2,7 +2,7 @@
 
 ## My favorite games of all time
 
-Going in descending order
+**Going in descending order**
 ⚛️
 - [Abiotic Factor](https://store.steampowered.com/app/427410/Abiotic_Factor/)
   
@@ -18,7 +18,7 @@ Going in descending order
   
   ![FNV](https://upload.wikimedia.org/wikipedia/commons/4/43/Free_depiction_of_the_Fallout_New_Vegas_Xbox_360_box_art_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled)
 
-  👑
+👑
 - [Kingdom Come Deliverence](https://store.steampowered.com/app/379430/Kingdom_Come_Deliverance/)
   
   ![KCD](https://upload.wikimedia.org/wikipedia/en/f/fd/Kingdom_Come_Deliverance.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled)
