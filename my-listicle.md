@@ -24,7 +24,7 @@
   
   ![KCD](https://upload.wikimedia.org/wikipedia/en/f/fd/Kingdom_Come_Deliverance.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled)
 
-  ⚔️
+⚔️
 - [Elden Ring](https://store.steampowered.com/app/1245620/ELDEN_RING/)
   
   ![Elden Ring](https://upload.wikimedia.org/wikipedia/en/b/b9/Elden_Ring_Box_art.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled)
